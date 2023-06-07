@@ -124,7 +124,7 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
 .about-txt .txt2{font-family: 'Fjalla One'; font-size: 19px; color: #555555; padding-bottom: 15px;}
 .about-txt .txt3{font-family: 'Open Sans Condensed'; font-size: 16px; color: #999999; padding-bottom: 15px;}
 
-.sign1{min-height: 201px; background: url(../images/sign1.png) right top no-repeat;font-family: 'Fjalla One'; font-size: 15px; color: #999999; text-align: right; padding-top: 140px;}
+.sign1{min-height: 201px; /*background: url(../images/sign1.png) right top no-repeat;*/font-family: 'Fjalla One'; font-size: 15px; color: #999999; text-align: right; padding-top: 140px;}
 .sign1 .txt4{color: #222222;position: relative;}
 .sign1 .txt5{position: relative;}
 .sign1 .pen1{position: absolute;width: 100%; height: auto;}
@@ -600,7 +600,7 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
 /* ============================= main menu ====================== */
 .navbar_ { margin: 0; padding: 0; background: none; border:none; position: relative;z-index: 30; min-height: 0; float: right; padding-top: 17px; padding-bottom: 17px;}
 .navbar_ .navbar-toggle { background: #0084b5; border: none;box-shadow: none; moz-box-shadow: none; -webkit-box-shadow: none; margin-top: 22px; margin-bottom: 21px; margin-right: 0px;}
-.navbar_ .navbar-toggle:hover, .navbar_ .navbar-toggle:focus{background: #9b6a0f;}
+.navbar_ .navbar-toggle:hover, .navbar_ .navbar-toggle:focus{background: #0094b5;}
 .navbar_ .navbar-toggle .icon-bar{background: #fff;}
 .navbar-collapse_{padding-left: 0; padding-right: 0; border: none;}
 .navbar_ .nav{position: relative; margin: 0; padding: 0; display: block; float: none;}

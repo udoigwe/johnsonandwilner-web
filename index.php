@@ -3,6 +3,7 @@
 
 <head>
 	<?php include 'includes/head.php'; ?>
+	<title>Johnson & Wilner | Home</title>
 </head>
 
 <body class="front" data-spy="scroll" data-target="#top1" data-offset="76">
@@ -19,7 +20,7 @@
 							<img src="images/slide01.jpg" alt="" class="img">
 							<div class="caption">
 								<div class="container">
-									<div class="txt1">We are Unique Law Firm</div>
+									<!-- <div class="txt1">We are Unique Law Firm</div> -->
 									<div class="txt2">Realiable Legal Solution</div>
 									<div class="txt3">
 										Synchronizing Law, Business, and Technology for Effective Digital Solutions
@@ -37,7 +38,7 @@
 							<img src="images/slide02.jpg" alt="" class="img">
 							<div class="caption">
 								<div class="container">
-									<div class="txt1">We are Unique Law Firm</div>
+									<!-- <div class="txt1">We are Unique Law Firm</div> -->
 									<div class="txt2">Realiable Legal Solution</div>
 									<div class="txt3">
 										Unleashing Legal Potential in the Digital Era
@@ -60,13 +61,13 @@
 			</div>
 		</div>
 
-		<div id="info">
+		<!-- <div id="info">
 			<div class="info-wrapper">
 				<div class="info1">
 					<div class="info1-inner animated" data-animation="fadeInDown" data-animation-delay="200">
 						<img src="images/ic1.png" alt="" class="img1">
 						<div class="caption">
-							<div class="txt1"><span class="animated-number" data-duration="2000" data-animation-delay="0">250</span>
+							<div class="txt1"><span class="animated-number" data-duration="2000" data-animation-delay="0">10</span>
 							</div>
 							<div class="txt2">Qualified Lawyers</div>
 						</div>
@@ -76,7 +77,7 @@
 					<div class="info1-inner animated" data-animation="fadeInDown" data-animation-delay="250">
 						<img src="images/ic2.png" alt="" class="img1">
 						<div class="caption">
-							<div class="txt1"><span class="animated-number" data-duration="2000" data-animation-delay="0">1900</span>+
+							<div class="txt1"><span class="animated-number" data-duration="2000" data-animation-delay="0">800</span>+
 							</div>
 							<div class="txt2">Successful Cases</div>
 						</div>
@@ -86,7 +87,7 @@
 					<div class="info1-inner animated" data-animation="fadeInDown" data-animation-delay="300">
 						<img src="images/ic3.png" alt="" class="img1">
 						<div class="caption">
-							<div class="txt1"><span class="animated-number" data-duration="2000" data-animation-delay="0">1825</span>+
+							<div class="txt1"><span class="animated-number" data-duration="2000" data-animation-delay="0">564</span>+
 							</div>
 							<div class="txt2">Happy Clients</div>
 						</div>
@@ -96,16 +97,16 @@
 					<div class="info1-inner animated" data-animation="fadeInDown" data-animation-delay="350">
 						<img src="images/ic4.png" alt="" class="img1">
 						<div class="caption">
-							<div class="txt1"><span class="animated-number" data-duration="2000" data-animation-delay="0">1700</span>+
+							<div class="txt1"><span class="animated-number" data-duration="2000" data-animation-delay="0">16</span>+
 							</div>
 							<div class="txt2">Honors & Award</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 
-		<div id="practice" class="dark-bg">
+		<!-- <div id="practice" class="dark-bg">
 			<div class="container">
 
 				<div class="title1 animated" data-animation="fadeInUp" data-animation-delay="100">PRACTICE AREAS</div>
@@ -280,7 +281,7 @@
 
 
 			</div>
-		</div>
+		</div> -->
 
 		<div id="about">
 			<div class="container">
@@ -309,7 +310,7 @@
 								<div class="txt5">Founder & Lead Partner</div>
 							</div>
 							<div class="man1 animated" data-animation="fadeInRight" data-animation-delay="300">
-								<img src="images/team/basil-udotai-nobg.png" alt="" class="img-responsive">
+								<img src="images/team/basil-udotai-nobg-full.png" alt="" class="img-responsive" style="height: 800px">
 							</div>
 						</div>
 					</div>
@@ -317,7 +318,7 @@
 			</div>
 		</div>
 
-		<div id="faq">
+		<!-- <div id="faq">
 			<div id="parallax1" class="parallax">
 				<div class="bg1 parallax-bg"></div>
 				<div class="parallax-content">
@@ -325,8 +326,7 @@
 
 						<div class="title1 animated" >some helpful</div>
 
-						<div class="title2 animated" >Frequently asked
-							questions
+						<div class="title2 animated">Frequently asked questions
 						</div>
 
 						<br><br>
@@ -346,7 +346,7 @@
 										   data-animation-delay="150"><span>Technology Law</span></a>
 									</div>
 								</div>
-								<!-- <div class="row">
+								<div class="row">
 									<div class="col-sm-6">
 										<a href="#" class="topic1 animated" data-animation="zoomIn"
 										   data-animation-delay="200"><span>Banking Law</span></a>
@@ -365,7 +365,7 @@
 										<a href="#" class="topic1 animated" data-animation="zoomIn"
 										   data-animation-delay="350"><span>Employment Law</span></a>
 									</div>
-								</div> -->
+								</div>
 
 
 							</div>
@@ -453,25 +453,46 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 
 		<div id="team" class="dark-bg">
 			<div class="container">
 
 				<div class="title1 animated" data-animation="fadeInUp" data-animation-delay="100">OUR TEAM</div>
 				<div class="title2 animated" data-animation="fadeInUp" data-animation-delay="200">Meet Our Attorneys</div>
-				<div class="title3 animated" data-animation="fadeInUp" data-animation-delay="300">Lorem Ipsum is simply
-					dummy text of the printinLorem Ipsum is simply mmy text of the printing and typeseing industry Lorem
-					Ipsum has been the industrys standard dummy text ever since the when an g and typeseing indu Lorem
-					Ipsumf the printing and. Typeseing industry Lorem Ipsum has been the industrys standard non troppo si
-					sarono al brave duo numeros canto suspendis.
+				<div class="title3 animated" data-animation="fadeInUp" data-animation-delay="300">
+					We are proud to introduce our team of highly skilled and dedicated legal professionals<br> who are here to provide you with exceptional legal representation. Our attorneys possess a wealth of experience, a deep understanding of the law,<br> and a commitment to serving our clients' best interests.
 				</div>
 
 				<br>
 
 				<div class="team-wrapper clearfix">
+					<div class="team1 animated" style="margin-right: auto; margin-left: auto; margin-bottom: 50px; width: 100%">
+						<figure><img src="images/team/basil-udotai-nobg-passport.png" alt="" class="img-responsive" style="width: 300px; height: 300px"></figure>
+						<div class="caption" style="width: 33.3333333%; margin-right: auto; margin-left: auto;">
+							<div class="txt1">Basil Udotai Esq.</div>
+							<div class="txt2">Founder & Lead Partner</div>
+							<div class="txt3">
+								Lorem ipsum dolor sitori dolo mom
+								tur adipiscing elit Aenean me la more duo
+								vel suscipit magna la grande sectum a moro
+								decoracio rava lapreve trieste
+							</div>
+							<div class="social_team_wrapper">
+								<ul class="social_team clearfix">
+									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="team-wrapper clearfix" style="margin-bottom: 50px">
 					<div class="team1 animated">
-						<figure><img src="images/team/edidiong-inyong-nobg-passport.png" alt="" class="img-responsive"></figure>
+						<figure>
+							<img src="images/team/edidiong-inyong-nobg-passport.png" alt="" class="img-responsive" style="width: 300px; height: 300px">
+						</figure>
 						<div class="caption">
 							<div class="txt1">Edidiong Inyong Esq.</div>
 							<div class="txt2">Partner</div>
@@ -490,28 +511,9 @@
 							</div>
 						</div>
 					</div>
+					
 					<div class="team1 animated">
-						<figure><img src="images/team/basil-udotai-nobg-passport.png" alt="" class="img-responsive"></figure>
-						<div class="caption">
-							<div class="txt1">Basil Udotai Esq.</div>
-							<div class="txt2">Founder & Lead Partner</div>
-							<div class="txt3">
-								Lorem ipsum dolor sitori dolo mom
-								tur adipiscing elit Aenean me la more duo
-								vel suscipit magna la grande sectum a moro
-								decoracio rava lapreve trieste
-							</div>
-							<div class="social_team_wrapper">
-								<ul class="social_team clearfix">
-									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<div class="team1 animated">
-						<figure><img src="images/team/senator-ihenyen-removebg-nobg-passport.png" alt="" class="img-responsive"></figure>
+						<figure><img src="images/team/senator-ihenyen-removebg-nobg-passport.png" alt="" class="img-responsive" style="width: 300px; height: 300px"></figure>
 						<div class="caption">
 							<div class="txt1">Senator Ihenyen Esq.</div>
 							<div class="txt2">Partner</div>
@@ -530,8 +532,9 @@
 							</div>
 						</div>
 					</div>
+
 					<div class="team1 animated">
-						<figure><img src="images/team/rotimi-ogunyemi-nobg.png" alt="" class="img-responsive"></figure>
+						<figure><img src="images/team/rotimi-ogunyemi-nobg-passport.png" alt="" class="img-responsive" style="width: 300px; height: 300px"></figure>
 						<div class="caption">
 							<div class="txt1">Rotimi Ogunyemi</div>
 							<div class="txt2">Partner</div>
@@ -551,16 +554,15 @@
 						</div>
 					</div>
 				</div>
-
 			</div>
 		</div>
 
 		<div id="testimonials">
 			<div class="container">
 
-				<div class="title1 animated">Testimonials</div>
+				<div class="title1 animated">Partners</div>
 
-				<div class="title2 animated">500 Happy Clients</div>
+				<!-- <div class="title2 animated">500 Happy Clients</div>
 
 				<br><br>
 
@@ -643,7 +645,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> -->
 
 				<div class="partners clearfix">
 					<div class="row">
@@ -693,7 +695,7 @@
 			</div>
 		</div>
 
-		<div id="news">
+		<!-- <div id="news">
 			<div class="container">
 
 				<div class="title1 animated">updates from us</div>
@@ -738,7 +740,7 @@
 				</div>
 
 			</div>
-		</div>
+		</div> -->
 
 		<div id="contacts">
 			<div id="google_map"></div>
@@ -750,11 +752,11 @@
 						<div class="txt1 animated" data-animation="bounceIn" data-animation-delay="100">Any Legal Problem
 							?
 						</div>
-						<div class="txt2 animated" data-animation="bounceIn" data-animation-delay="200">Call us: +234 (0) 803 306 6004
+						<!-- <div class="txt2 animated" data-animation="bounceIn" data-animation-delay="200">Call us: +234 (0) 803 306 6004
 						</div>
 						<div class="txt3 animated" data-animation="bounceIn" data-animation-delay="300">We are ready to fight four our clients!!
-						</div>
-						<a href="#" class="btn-default btn2 animated" data-animation="bounceIn" data-animation-delay="400">
+						</div> -->
+						<a href="tel:+234 816 005 1310" class="btn-default btn2 animated" data-animation="bounceIn" data-animation-delay="400">
 						   <span>call us Now</span>
 						</a>
 					</div>
@@ -763,191 +765,11 @@
 			</div>
 		</div>
 
-		<div class="bot1">
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-3">
+		<?php include 'includes/footer.php'; ?>
 
-						<div class="bot_title">Contact us</div>
-
-						<div id="location">
-							<div class="">
-								<div class="carousel-box">
-									<div class="inner">
-										<div class="carousel main">
-											<ul>
-												<li>
-													<div class="location">
-														<div class="location_inner">
-
-															<div class="title5">ABUJA</div>
-
-															<div class="ic2"><i class="fa fa-map-marker"></i><span>Suit A10, Hawton Suites, 1, Uke Street Garki 2, FCT Abuja</span>
-															</div>
-
-															<div class="ic2"><i class="fa fa-phone"></i><span>+234 (0) 9870 8979</span>
-															</div>
-
-															<div class="ic2"><i class="fa fa-envelope"></i><span><a
-																	href="#">basil@johnsonandwilner.com</a></span></div>
-
-															<div class="ic2"><i class="fa fa-clock-o"></i><span>Mon to Sat: 9:0 to 18:00</span>
-															</div>
-
-														</div>
-													</div>
-												</li>
-												<li>
-													<div class="location">
-														<div class="location_inner">
-
-															<div class="title5">LAGOS</div>
-
-															<div class="ic2"><i class="fa fa-map-marker"></i><span>The Penthouse @8A, Vantage Court, Plot 139 Sinari Daranjo Street, Off Ajose Adeogun Street, Victoria Island, Lagos</span>
-															</div>
-
-															<div class="ic2"><i class="fa fa-phone"></i><span>+234 (0) 803 306 6004</span>
-															</div>
-
-															<div class="ic2"><i class="fa fa-envelope"></i><span><a
-																	href="#">basil@johnsonandwilner.com</a></span></div>
-
-															<div class="ic2"><i class="fa fa-clock-o"></i><span>Mon to Sat: 9:0 to 18:00</span>
-															</div>
-
-														</div>
-													</div>
-												</li>
-
-											</ul>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<div class="location_pagination"></div>
-
-
-						</div>
-
-
-					</div>
-					<div class="col-sm-3">
-
-						<div class="bot_title">Services Links</div>
-
-						<ul class="ul0">
-							<li><a href="#">Home</a></li>
-							<li><a href="#">Practice areas</a></li>
-							<li><a href="#">About us</a></li>
-							<li><a href="#">FAQ</a></li>
-							<li><a href="#">Our Team</a></li>
-							<li><a href="#">News</a></li>
-							<li><a href="#">Blog</a></li>
-						</ul>
-
-
-					</div>
-					<div class="col-sm-3">
-
-						<div class="bot_title">Twiter Feed</div>
-
-						<div class="ic3">
-							<i class="fa fa-twitter"></i>
-							<span>
-				Lorem Ipsum is simply dummy
-				text of the print ing and...
-				<em><a href="#">#twiterID</a></em>
-			  </span>
-						</div>
-
-						<div class="ic3">
-							<i class="fa fa-twitter"></i>
-							<span>
-				Simply dummy text of the print ing and typing indus tryLorem.
-				<em><a href="#">#twiterID</a></em>
-			  </span>
-						</div>
-
-
-					</div>
-					<div class="col-sm-3">
-
-						<div class="bot_title">Subscribe us</div>
-
-						<p>
-							Subscribe to our Newsletter to get first <br>Gift voucher by YourDomain.com
-						</p>
-
-						<div class="subscribe-form-wrapper clearfix">
-							<form class="clearfix">
-								<input type="text" class="form-control" placeholder="" value="Enter your email "
-									   onBlur="if(this.value=='') this.value='Enter your email '"
-									   onFocus="if(this.value =='Enter your email ' ) this.value=''">
-								<a href="#" class=""></a>
-							</form>
-						</div>
-
-						<div class="social2_wrapper">
-							<ul class="social2 clearfix">
-								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-								<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-								<li><a href="#"><i class="fa fa-youtube"></i></a></li>
-							</ul>
-						</div>
-
-
-					</div>
-				</div>
-
-				<div class="logo2_wrapper">
-					<a href="index-2.html" class="logo2">
-						<img src="images/logo1.png" alt="" width="60%" class="img-responsive">
-					</a>
-				</div>
-
-
-			</div>
-		</div>
-
-		<div class="bot2">
-			<div class="container">
-				All Rights Reserved &copy; 2018 Made by <a href="https://gridgum.com/author/Mecovache/themes/" target="_blank">MECOVACHE</a>
-			</div>
-		</div>
 	</div>
-	<script src="js/jquery.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/jquery-ui.js"></script>
-	<script src="js/jquery-migrate-1.2.1.min.js"></script>
-	<script src="js/jquery.easing.1.3.js"></script>
-	<script src="js/superfish.js"></script>
 
-	<script src="js/jquery.superslides.js"></script>
-
-	<script src="js/jquery.sticky.js"></script>
-
-	<script src="js/jquery.appear.js"></script>
-
-	<script src="js/jquery.ui.totop.js"></script>
-
-	<script src="js/jquery.caroufredsel.js"></script>
-	<script src="js/jquery.touchSwipe.min.js"></script>
-
-	<script src="js/jquery.parallax-1.1.3.resize.js"></script>
-
-	<script src="js/SmoothScroll.js"></script>
-
-	<script src="js/cform.js"></script>
-
-	<script src="../../../maps.googleapis.com/maps/api/js8c4a?sensor=false.js"></script>
-	<script src="js/googlemap.js"></script>
-
-	<script src="js/scripts.js"></script>
+	<?php include 'includes/scripts.php'; ?>
 
 </body>
-
-<!-- Mirrored from www.template-preview.com/bootstrap-templates/lawyer/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 07 Jun 2023 01:48:12 GMT -->
 </html>
