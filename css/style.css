@@ -860,7 +860,11 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
 /* Large desktop */
 @media (min-width: 1230px) {
 
-
+    .single .caption {
+        width: 33.33333333%;
+        margin-right: auto; 
+        margin-left: auto;
+    }
 
 }
 /* Default landscape and desktop to large desktop */
@@ -869,7 +873,11 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
     .sign1 .pen1{max-width: 70%;}
 
 
-
+    .single .caption {
+        width: 33.33333333%;
+        margin-right: auto; 
+        margin-left: auto;
+    }
 
 
 
@@ -878,14 +886,22 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
 }
 @media (min-width: 992px) {
 
-
+    .single .caption {
+        width: 33.33333333%;
+        margin-right: auto; 
+        margin-left: auto;
+    }
 
 }
 @media (min-width: 992px) and (max-width: 1229px) {
 
 
 
-
+    .single .caption {
+        width: 33.33333333%;
+        margin-right: auto; 
+        margin-left: auto;
+    }
 
 
 
@@ -901,7 +917,11 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
   .page-contact .contact-box-inner{padding-bottom: 120px;}
 
 
-
+  .single .caption {
+        width: 33.33333333%;
+        margin-right: auto; 
+        margin-left: auto;
+    }
 
 
 
@@ -909,7 +929,11 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
 }
 @media (min-width: 768px) and (max-width: 991px) {
 
-
+    .single .caption {
+        width: 33.33333333%;
+        margin-right: auto; 
+        margin-left: auto;
+    }
 
 
 
@@ -960,16 +984,26 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
   .comment-block.left1{margin-left: 0;}
 
 
+    .about-txt .man1 {
+        display: none;
+    }
 
+    .single .caption {
+        width: 100%;
+        /*margin-right: auto; 
+        margin-left: auto;*/
+    }
 
 
 
 
 }
 @media (min-width: 481px) and (max-width: 767px) {
-
-
-
+    .single .caption {
+        width: 100%;
+        /*margin-right: auto; 
+        margin-left: auto;*/
+    }
 }
 /* Landscape phones and down */
 @media (max-width: 480px) {
@@ -977,6 +1011,10 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
   .free-button-wrapper{display: none;}
 
 
-
+  .single .caption {
+        width: 100%;
+        /*margin-right: auto; 
+        margin-left: auto;*/
+    }
 
 }

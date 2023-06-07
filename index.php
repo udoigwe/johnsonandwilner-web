@@ -467,9 +467,9 @@
 				<br>
 
 				<div class="team-wrapper clearfix">
-					<div class="team1 animated" style="margin-right: auto; margin-left: auto; margin-bottom: 50px; width: 100%">
+					<div class="team1 single animated" style="margin-right: auto; margin-left: auto; margin-bottom: 50px; width: 100%">
 						<figure><img src="images/team/basil-udotai-nobg-passport.png" alt="" class="img-responsive" style="width: 300px; height: 300px"></figure>
-						<div class="caption" style="width: 33.3333333%; margin-right: auto; margin-left: auto;">
+						<div class="caption">
 							<div class="txt1">Basil Udotai Esq.</div>
 							<div class="txt2">Founder & Lead Partner</div>
 							<div class="txt3">

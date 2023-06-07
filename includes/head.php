@@ -5,6 +5,45 @@
 <meta name="keywords" content="Your keywords">
 <meta name="author" content="Your name">
 
+<!--- Open Graph needs
+================================================== -->
+<meta property="og:site_name" content="Johnson & Wilner">
+<!--======================================================================================================= --> 
+<meta property="og:title" content="Johnson & Wilner" />
+<!--======================================================================================================= --> 
+<meta property="og:description" content="Synchronizing Law, Business, and Technology for Effective Digital Solutions, Unleashing Legal Potential in the Digital Era" />
+<!--======================================================================================================= --> 
+<meta property="og:image" itemprop="image" content="https://johnsonandwilner.com/images/logo1.png">
+<!--======================================================================================================= --> 
+<meta property="og:type" content="website" />
+<!--======================================================================================================= --> 
+<meta property="og:url" content="https://johnsonandwilner.com/" />
+<!--======================================================================================================= --> 
+<!--- Open Graph needs
+=========================================================================================================== -->
+
+<!--- Twitter needs
+=========================================================================================================== -->
+<meta name="twitter:card" content="summary_large_image" />
+<!-- ====================================================================================================== -->
+<meta property="twitter:site" content="@igweudouche">
+<!--======================================================================================================= -->
+<meta property="twitter:creator" content="@igweudouche">
+<!--======================================================================================================= --> 
+<meta property="twitter:title" content="Johnson & Wilner" />
+<!--======================================================================================================= --> 
+<meta property="twitter:description" content="Synchronizing Law, Business, and Technology for Effective Digital Solutions, Unleashing Legal Potential in the Digital Era" />
+<!--======================================================================================================= --> 
+<meta property="twitter:image" content="https://johnsonandwilner.com/images/logo1.png">
+<!--======================================================================================================= --> 
+<!-- Twitter needs
+=========================================================================================================== -->
+
+<!-- Favicon
+=========================================================================================================== -->
+<link rel="shortcut icon" type="image/x-icon" href="images/logo1.png">
+
+
 <link href="css/jquery-ui.css" rel="stylesheet">
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/font-awesome.css" rel="stylesheet">
