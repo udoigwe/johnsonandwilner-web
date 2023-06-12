@@ -27,7 +27,7 @@
 									</div>
 									<div class="img1"><img src="images/logo1.png" alt="" class="preserve"></div>
 									<div class="link1">
-										<a href="contact.html" class="slider-link1">
+										<a href="#contacts" class="slider-link1">
 											<span>Contact us Now</span>
 										</a>
 									</div>
@@ -45,7 +45,7 @@
 									</div>
 									<div class="img1"><img src="images/logo1.png" alt="" class="preserve"></div>
 									<div class="link1">
-										<a href="contact.html" class="slider-link1">
+										<a href="#contacts" class="slider-link1">
 											<span>Contact us Now</span>
 										</a>
 									</div>
@@ -473,16 +473,13 @@
 							<div class="txt1">Basil Udotai Esq.</div>
 							<div class="txt2">Founder & Lead Partner</div>
 							<div class="txt3">
-								Lorem ipsum dolor sitori dolo mom
-								tur adipiscing elit Aenean me la more duo
-								vel suscipit magna la grande sectum a moro
-								decoracio rava lapreve trieste
+								Basil Udotai, Esq., is the Managing Partner of Technology Advisors and Lead Consultant. He is the immediate past Director of Cybersecurity and the pioneer Head of the Directorate for Cybersecurity, Office of the National Security Adviser (NSA), Nigeria.
 							</div>
 							<div class="social_team_wrapper">
 								<ul class="social_team clearfix">
-									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									<li><a href="https://web.facebook.com/basil.udotai"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="https://twitter.com/basiludotai"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="https://linkedin.com/in/basiludotai"><i class="fa fa-linkedin"></i></a></li>
 								</ul>
 							</div>
 						</div>
@@ -560,7 +557,8 @@
 		<div id="testimonials">
 			<div class="container">
 
-				<div class="title1 animated">Partners</div>
+				<!-- <div class="title1 animated">Partners</div> -->
+
 
 				<!-- <div class="title2 animated">500 Happy Clients</div>
 
@@ -652,12 +650,13 @@
 						<div class="partner1 animated" data-animation="bounceIn" data-animation-delay="100">
 							<a href="#">
 								<figure>
-									<img src="images/partner1.png" alt="" class="img1 img-responsive">
-									<img src="images/partner1_hover.png" alt="" class="img2 img-responsive">
+									<!-- <img src="images/partner1.png" alt="" class="img1 img-responsive">
+									<img src="images/partner1_hover.png" alt="" class="img2 img-responsive"> -->
+									<img src="images/logo1.png" alt="" class="img-responsive">
 								</figure>
 							</a>
 						</div>
-						<div class="partner1 animated" data-animation="bounceIn" data-animation-delay="150">
+						<!-- <div class="partner1 animated" data-animation="bounceIn" data-animation-delay="150">
 							<a href="#">
 								<figure>
 									<img src="images/partner2.png" alt="" class="img1 img-responsive">
@@ -688,7 +687,7 @@
 									<img src="images/partner5_hover.png" alt="" class="img2 img-responsive">
 								</figure>
 							</a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 

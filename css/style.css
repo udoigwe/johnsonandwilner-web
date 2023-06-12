@@ -209,7 +209,7 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
 /* ============================= clients end ====================== */
 
 .partners{text-align: center;}
-.partner1{width: 20%; float: left; padding-left: 15px; padding-right: 15px; margin-bottom: 30px;}
+.partner1{width: 100%; margin-bottom: 30px; margin-left: auto; margin-right: auto}
 .partner1 a{display: block;}
 .partner1 a figure{position: relative;}
 .partner1 a img{margin-left: auto; margin-right: auto;}
@@ -217,6 +217,16 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
 transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-transition: all 0.3s ease-out; -o-transition: all 0.3s ease-out;
 }
 .partner1 a:hover .img2{opacity: 1; filter:alpha(opacity=100);}
+
+/*.partners{text-align: center;}
+.partner1{width: 20%; float: left; padding-left: 15px; padding-right: 15px; margin-bottom: 30px;}
+.partner1 a{display: block;}
+.partner1 a figure{position: relative;}
+.partner1 a img{margin-left: auto; margin-right: auto;}
+.partner1 a .img2{position: absolute; left: 0; right: 0; top: 0; opacity: 0; filter:alpha(opacity=0);
+transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-transition: all 0.3s ease-out; -o-transition: all 0.3s ease-out;
+}
+.partner1 a:hover .img2{opacity: 1; filter:alpha(opacity=100);}*/
 
 #news{position: relative; background: #fff; padding-top: 60px; padding-bottom: 50px; border-bottom: 1px solid #aeaeae;}
 

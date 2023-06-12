@@ -97,11 +97,11 @@
 
 				<ul class="ul0">
 					<li><a href="#home">Home</a></li>
-					<li><a href="#practice">Practice areas</a></li>
+					<!-- <li><a href="#practice">Practice areas</a></li> -->
 					<li><a href="#about">About us</a></li>
-					<li><a href="#faq">FAQ</a></li>
+					<!-- <li><a href="#faq">FAQ</a></li> -->
 					<li><a href="#team">Our Team</a></li>
-					<li><a href="#testimonials">Our Team</a></li>
+					<li><a href="#contacts">Contact Us</a></li>
 					<!-- <li><a href="#">News</a></li>
 					<li><a href="#">Blog</a></li> -->
 				</ul>
